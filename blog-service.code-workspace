@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "blog-service",
+			"path": "."
+		},{
+			"name": "External Libraries",
+			"path": "/home/zzzum/go/pkg/mod"
+		}		
+	],
+	"settings": {}
+}
