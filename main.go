@@ -30,8 +30,12 @@ func init() {
 	}
 }
 
+// @title 博客系统
+// @version 1.0
+// @description Go 语言编程之旅：一起用 Go 做项目
+// @termsOfService https://github.com/go-tour-book
 func main() {
-	global.Logger.Infof("%s: go-programming-tour-book/%s", "eddycjy", "blog-service")
+	// global.Logger.Infof("%s: go-programming-tour-book/%s", "eddycjy", "blog-service")
 	router := routers.NewRouter()
 	s := &http.Server{
 		Addr:           ":" + global.ServerSetting.HttpPort,
