@@ -5,7 +5,7 @@
 			"path": "."
 		},{
 			"name": "External Libraries",
-			"path": "/home/zzzum/go/pkg/mod"
+			"path": "C:/work/go_work/pkg/mod"
 		}		
 	],
 	"settings": {}
